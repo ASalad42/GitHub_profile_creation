@@ -1,4 +1,4 @@
-# GitHub_profile_creation
+# GitHub Profile Creation
 
 ## Making GitHub Profile README
 
