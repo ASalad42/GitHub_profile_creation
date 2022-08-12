@@ -1,6 +1,15 @@
 # GitHub Profile Creation
 
 ## Making GitHub Profile README
+- log into Github 
+- click the plus sign on the top right of the page for **New Repository**
+- create new repo page should open 
+- In the **Repository name** field, enter the username of your GitHub account. 
+- GitHub will display a message saying that you are creating a special repo
+- check public
+- check Add a README file 
+- click on Create repository 
+- Now you can edit and change your repo - the added README.md is where we will add the profile contents 
 
 ### Sections 
 - title
